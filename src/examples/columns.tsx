@@ -7,7 +7,7 @@ function Columns() {
   return (
     <>
       <h2>Columns examples</h2>
-      <div className="columns-3">
+      <div className="columns-3xs">
         <img className="aspect-3/2" src={MOUNTAINS_IMAGE_URL} />
         <img className="aspect-square" src={MOUNTAINS_IMAGE_URL} />
         <img className="aspect-square" src={MOUNTAINS_IMAGE_URL} />

@@ -6,7 +6,7 @@ import Columns from "./examples/columns";
 function App() {
   return (
     <>
-      <div className="space-y-10">
+      <div>
         <AspectRatio />
         <Columns />
       </div>
