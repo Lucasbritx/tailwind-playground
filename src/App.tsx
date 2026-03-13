@@ -5,6 +5,7 @@ import Columns from "./examples/columns";
 import BreakAfter from "./examples/break-after";
 import BreakBefore from "./examples/break-before";
 import BoxDecorationBreak from "./examples/box-decoration-break";
+import BreakInside from "./examples/break-inside";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <BreakAfter />
         <BreakBefore />
         <BoxDecorationBreak />
+        <BreakInside />
       </div>
     </>
   );
