@@ -4,6 +4,7 @@ import AspectRatio from "./examples/aspectRatio";
 import Columns from "./examples/columns";
 import BreakAfter from "./examples/break-after";
 import BreakBefore from "./examples/break-before";
+import BoxDecorationBreak from "./examples/box-decoration-break";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Columns />
         <BreakAfter />
         <BreakBefore />
+        <BoxDecorationBreak />
       </div>
     </>
   );
