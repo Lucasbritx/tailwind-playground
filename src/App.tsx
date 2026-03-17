@@ -6,6 +6,7 @@ import BreakAfter from "./examples/break-after";
 import BreakBefore from "./examples/break-before";
 import BoxDecorationBreak from "./examples/box-decoration-break";
 import BreakInside from "./examples/break-inside";
+import ResponsiveDesign from "./examples/responsive-design";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <BreakBefore />
         <BoxDecorationBreak />
         <BreakInside />
+        <ResponsiveDesign />
       </div>
     </>
   );
